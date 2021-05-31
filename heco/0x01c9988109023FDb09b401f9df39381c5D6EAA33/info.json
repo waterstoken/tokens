@@ -1,0 +1,11 @@
+{
+ "name": "Water Margin",
+ "website": "https://hecoinfo.com/token/0x01c9988109023FDb09b401f9df39381c5D6EAA33",
+ "description": "Water Margin token",
+ "explorer": "https://hecoinfo.com/token/0x01c9988109023FDb09b401f9df39381c5D6EAA33",
+ "type": "HRC-20",
+ "symbol": "Water",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x01c9988109023FDb09b401f9df39381c5D6EAA33"
+}
